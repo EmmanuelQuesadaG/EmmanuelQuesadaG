@@ -5,7 +5,7 @@
 Data Engineer with experience building data pipelines on Azure. Passionate about transforming raw data into reliable assets that power business decisions.
 
 - 🏗️ Building end-to-end pipelines with Azure Data Factory + Databricks
-- 🏅 Learning Medallion Architecture with Delta Lake
+- 🏅 Medallion Architecture with Delta Lake
 - 📊 Delivering analytics-ready data for Power BI dashboards
 - 🔍 Open to Data Engineer roles - available for full-time opportunities
 
